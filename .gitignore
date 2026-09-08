@@ -1,0 +1,16 @@
+# Entorno virtual
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Datos originales y transformados
+data/raw/*.csv
+data/processed/*
+
+# Gráficas generadas
+reports/figures/
